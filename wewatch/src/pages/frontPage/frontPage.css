@@ -1,0 +1,81 @@
+
+.body-web {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.img-cont {
+  height: 250px;
+  width:100%;
+  background-color: rgb(193, 186, 186);
+  margin-left: 10px;
+  margin-bottom: 10px;  
+}
+
+.login-box {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width:100%;
+}
+
+.login {
+  display: block  ;
+  height: 200px;
+  width: 250px;
+  background-color: yellowgreen;
+  padding: 15px 0px 50px 50px;
+}
+
+h2{
+  margin: 0;
+  margin-bottom: 10px;
+
+}
+
+
+input{
+  display: block;
+
+}
+
+.sign-in-button{
+  display: inline;
+  margin-left: 5px;
+} 
+
+.sign-in-button:hover{
+  cursor: pointer;
+
+}
+
+.register-button{
+  display: inline;
+  margin-left: 5px;
+} 
+
+.register-button:hover{
+  cursor: pointer;
+
+}
+
+p{
+  display: inline;
+
+}
+.register{
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 8px;
+    color: red;
+
+
+}
+
+.login3{
+  color: rgb(92, 92, 96);
+  font-weight: bold;
+
+}

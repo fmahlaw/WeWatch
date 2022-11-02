@@ -1,0 +1,28 @@
+.header {
+  margin-top: -8px;
+  height: 50px;
+  background-color: rgb(67, 61, 146);
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width:100%;
+}
+.site-name {
+  margin-right: 5px;
+}
+
+.donate-but, .contact-but, .logout-but{
+  background-color: rgb(67, 61, 146);
+  border: none;
+ 
+}
+.donate-but:hover, .contact-but:hover, .logout-but:hover{
+  background-color: rgb(61, 57, 89);
+}
+
+a{
+  color: rgba(214 224 237);
+  text-decoration: none;
+
+}

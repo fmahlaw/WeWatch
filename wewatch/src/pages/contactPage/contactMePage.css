@@ -1,0 +1,49 @@
+
+.contact-me-cont{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+}
+.input-cont{
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+.subject-cont{
+  display: flex;
+  flex-direction: column;
+
+}
+.message-cont{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.owner-mess{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.owner-text{
+  margin: 8px;
+}
+.subject-box{
+  margin-top: 10px;
+  width: 300px;
+  padding: 8px 0px 8px 0px;
+}
+.message-box{
+  margin-top: 10px;
+  height: 200px;
+  width: 300px;
+  margin-bottom: 10px;
+}
