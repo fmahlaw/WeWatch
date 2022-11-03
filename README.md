@@ -2,7 +2,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------
                                                                                                                                 
   Wewatch is a website where you can track the newest products of your favorite store in Biggest Indonesian E-Commerce TOKOPEDIA 
-                                                                                                                                                                       Put your store site name in the tab and wait for your product to load                                                          
+                                                                                                                                                                         
+  Put your store site name in the tab and wait for your product to load                                                                                                                                                                      
 -----------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------
 
