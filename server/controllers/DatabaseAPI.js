@@ -3,7 +3,7 @@ import { MongoClient, ServerApiVersion } from "mongodb";
 
 export default async function insertData() {
   const uri =
-    "mongodb+srv://wewatchadmin:wewatch123@cluster0.pdg1hdu.mongodb.net/?retryWrites=true&w=majority";
+    "mongodb+srv://<username:password>3@cluster0.pdg1hdu.mongodb.net/?retryWrites=true&w=majority";
   const client = new MongoClient(uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
